@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2093" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2575" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vC-1JAh9wrT5YlYuw6K_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t4iBaf86HQNA4ZAkcv5S-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-16" edge="1">
+        <mxCell id="qFtKOdCCGuHlwm3ug0GW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t4iBaf86HQNA4ZAkcv5S-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-38" edge="1">
+        <mxCell id="qFtKOdCCGuHlwm3ug0GW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vC-1JAh9wrT5YlYuw6K_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-32">
+        <mxCell id="qFtKOdCCGuHlwm3ug0GW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFtKOdCCGuHlwm3ug0GW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-6" value="&lt;p style=&quot;margin-top:0in;margin-right:0in;margin-bottom:8.0pt;&lt;br/&gt;margin-left:0in;text-indent:0in;line-height:107%&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot;&gt;enigma_jhud&lt;/span&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -26,13 +26,13 @@
           <mxGeometry x="20" y="30" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-10" value="&lt;p style=&quot;margin-top:0in;margin-right:0in;margin-bottom:8.0pt;&lt;br/&gt;margin-left:0in;text-indent:0in;line-height:107%&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;nytimes_data_in_usa_us_county&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="160" width="200" height="140" as="geometry" />
+          <mxGeometry x="280" y="130" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-11" value="`date` string, &lt;br/&gt; `county` string, &lt;br/&gt; `state` string, &lt;br/&gt; `fips` bigint, &lt;br/&gt; `cases` bigint, &lt;br/&gt; `deaths` bigint&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-10" vertex="1">
           <mxGeometry x="20" y="30" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-16" value="nytimes_data_in_usa_us_states&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="410" width="200" height="190" as="geometry" />
+          <mxGeometry x="880" y="320" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-19" value="`date` string, &#xa; `state` string, &#xa; `fips` bigint, &#xa; `cases` bigint, &#xa; `deaths` bigint" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-16" vertex="1">
           <mxGeometry x="25" y="40" width="155" height="140" as="geometry" />
@@ -48,29 +48,29 @@
             <mxPoint x="1060" y="1635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vC-1JAh9wrT5YlYuw6K_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-25" target="t4iBaf86HQNA4ZAkcv5S-30">
+        <mxCell id="vC-1JAh9wrT5YlYuw6K_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t4iBaf86HQNA4ZAkcv5S-25" target="t4iBaf86HQNA4ZAkcv5S-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-25" value="rearc_covid_19_testing_data_states_dailystates_daily" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="580" width="400" height="870" as="geometry" />
+          <mxGeometry x="90" y="570" width="400" height="870" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-26" value="`date` bigint, &lt;br&gt; `state` string, &lt;br&gt; `positive` bigint, &lt;br&gt; `probablecases` bigint, &lt;br&gt; `negative` bigint, &lt;br&gt; `pending` bigint, &lt;br&gt; `totaltestresultssource` string, &lt;br&gt; `totaltestresults` bigint, &lt;br&gt; `hospitalizedcurrently` bigint, &lt;br&gt; `hospitalizedcumulative` bigint, &lt;br&gt; `inicucurrently` bigint, &lt;br&gt; `inicucumulative` bigint, &lt;br&gt; `onventilatorcurrently` bigint, &lt;br&gt; `onventilatorcumulative` bigint, &lt;br&gt; `recovered` bigint, &lt;br&gt; `lastupdateet` string, &lt;br&gt; `datemodified` string, &lt;br&gt; `checktimeet` string, &lt;br&gt; `death` bigint, &lt;br&gt; `hospitalized` bigint, &lt;br&gt; `hospitalizeddischarged` bigint, &lt;br&gt; `datechecked` string, &lt;br&gt; `totaltestsviral` bigint, &lt;br&gt; `positivetestsviral` bigint, &lt;br&gt; `negativetestsviral` bigint, &lt;br&gt; `positivecasesviral` bigint, &lt;br&gt; `deathconfirmed` bigint, &lt;br&gt; `deathprobable` bigint, &lt;br&gt; `totaltestencountersviral` bigint, &lt;br&gt; `totaltestspeopleviral` bigint, &lt;br&gt; `totaltestsantibody` bigint, &lt;br&gt; `positivetestsantibody` bigint, &lt;br&gt; `negativetestsantibody` bigint, &lt;br&gt; `totaltestspeopleantibody` bigint, &lt;br&gt; `positivetestspeopleantibody` bigint, &lt;br&gt; `negativetestspeopleantibody` bigint, &lt;br&gt; `totaltestspeopleantigen` bigint, &lt;br&gt; `positivetestspeopleantigen` bigint, &lt;br&gt; `totaltestsantigen` bigint, &lt;br&gt; `positivetestsantigen` bigint, &lt;br&gt; `fips` bigint, &lt;br&gt; `positiveincrease` bigint, &lt;br&gt; `negativeincrease` bigint, &lt;br&gt; `total` bigint,&lt;div&gt;`totaltestresultsincrease` bigint,&lt;br&gt;`posneg` bigint,&lt;br&gt;`dataqualitygrade` string,&lt;br&gt;`deathincrease` bigint,&lt;br&gt;`hospitalizedincrease` bigint,&lt;br&gt;`hash` string,&lt;br&gt;`commercialscore` bigint,&lt;br&gt;`negativeregularscore` bigint,&lt;br&gt;`negativescore` bigint,&lt;br&gt;`positivescore` bigint,&lt;br&gt;`score` bigint,&lt;br&gt;`grade` string&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-25" vertex="1">
           <mxGeometry x="50" y="50" width="230" height="660" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-28" value="rearc_usa_hospital_beds&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1160" width="260" height="380" as="geometry" />
+          <mxGeometry x="860" y="1010" width="260" height="380" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-29" value="`objectid` int , &lt;br&gt; `hospital_name` string , &lt;br&gt; `hospital_type` string , &lt;br&gt; `hq_address` string , &lt;br&gt; `hq_address1` string , &lt;br&gt; `hq_city` string , &lt;br&gt; `hq_state` string , &lt;br&gt; `hq_zip_code` string , &lt;br&gt; `county_name` string , &lt;br&gt; `state_name` string , &lt;br&gt; `state_fips` string ,&lt;div&gt;`cnty_fips` string , &lt;br/&gt; `fips` string , &lt;br/&gt; `num_licensed_beds` int , &lt;br/&gt; `num_staffed_beds` int , &lt;br/&gt; `num_icu_beds` int , &lt;br/&gt; `adult_icu_beds` int , &lt;br/&gt; `pedi_icu_beds` double , &lt;br/&gt; `bed_utilization` double , &lt;br/&gt; `avg_ventilator_usage` double , &lt;br/&gt; `potential_increase_in_bed_capac` &lt;br/&gt; `latitude` double , &lt;br/&gt; `longtitude` double&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-28" vertex="1">
           <mxGeometry x="50" y="30" width="160" height="350" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-30" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;rearc_covid_19_testing_dataus_total_latest&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1160" width="310" height="350" as="geometry" />
+          <mxGeometry x="530" y="970" width="310" height="350" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-31" value="`positive` bigint, &#xa; `negative` bigint, &#xa; `pending` bigint, &#xa; `hospitalizedcurrently` bigint, &#xa; `hospitalizedcumulative` bigint, &#xa; `inicucurrently` bigint, &#xa; `inicucumulative` bigint, &#xa; `onventilatorcurrently` bigint, &#xa; `onventilatorcumulative` bigint, &#xa; `recovered` bigint, &#xa; `hash` string, &#xa; `lastmodified` string, &#xa; `death` bigint, &#xa; `hospitalized` bigint, &#xa; `total` bigint, &#xa; `totaltestresults` bigint, &#xa; `posneg` bigint, &#xa; `notes` string" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-30" vertex="1">
           <mxGeometry x="30" y="40" width="200" height="260" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-32" value="static_datastate_abv" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="950" width="200" height="110" as="geometry" />
+          <mxGeometry x="950" y="840" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-33" value="`State` string, &#xa; `Abbreviation ` string" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-32" vertex="1">
           <mxGeometry x="30" y="40" width="140" height="50" as="geometry" />
@@ -78,17 +78,17 @@
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="t4iBaf86HQNA4ZAkcv5S-36" target="t4iBaf86HQNA4ZAkcv5S-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vC-1JAh9wrT5YlYuw6K_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-36" target="t4iBaf86HQNA4ZAkcv5S-32">
+        <mxCell id="vC-1JAh9wrT5YlYuw6K_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t4iBaf86HQNA4ZAkcv5S-36" target="t4iBaf86HQNA4ZAkcv5S-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-36" value="static_datacountypopulation" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="720" width="240" height="170" as="geometry" />
+          <mxGeometry x="1180" y="750" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-37" value="&#xa;id` string, &#xa; `id2` bigint, &#xa; `county` string, &#xa; `state` string, &#xa; `population estimate 2018` bigint&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-36" vertex="1">
           <mxGeometry x="15" y="32.5" width="190" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-38" value="static_datacountrycode" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="530" width="200" height="170" as="geometry" />
+          <mxGeometry x="1030" y="530" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-39" value="`country` string, &#xa; `alpha-2 code` string, &#xa; `alpha-3 code` string, &#xa; `numeric code` bigint, &#xa; `latitude` double, &#xa; `longitude` double" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-38" vertex="1">
           <mxGeometry x="25" y="40" width="150" height="110" as="geometry" />
@@ -97,12 +97,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-22" value="rearc_covid_19_testing_dataus_daily&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="660" width="290" height="420" as="geometry" />
+          <mxGeometry x="550" y="490" width="290" height="420" as="geometry" />
         </mxCell>
         <mxCell id="t4iBaf86HQNA4ZAkcv5S-23" value="`date` bigint, &#xa; `states` bigint, &#xa; `positive` bigint, &#xa; `negative` bigint, &#xa; `pending` bigint, &#xa; `hospitalizedcurrently` bigint, &#xa; `hospitalizedcumulative` bigint, &#xa; `inicucurrently` bigint, &#xa; `inicucumulative` bigint, &#xa; `onventilatorcurrently` bigint, &#xa; `onventilatorcumulative` bigint, &#xa; `datechecked` string, &#xa; `death` bigint, &#xa; `hospitalized` bigint, &#xa; `totaltestresults` bigint, &#xa; `lastmodified` string, &#xa; `recovered` string, &#xa; `total` bigint, &#xa; `posneg` bigint, &#xa; `deathincrease` bigint, &#xa; `hospitalizedincrease` bigint, &#xa; `negativeincrease` bigint, &#xa; `positiveincrease` bigint, &#xa; `totaltestresultsincrease` bigint, &#xa; `hash` string" style="text;whiteSpace=wrap;html=1;" parent="t4iBaf86HQNA4ZAkcv5S-22" vertex="1">
           <mxGeometry x="40" y="30" width="200" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="vC-1JAh9wrT5YlYuw6K_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.051;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-28">
+        <mxCell id="vC-1JAh9wrT5YlYuw6K_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.051;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t4iBaf86HQNA4ZAkcv5S-6" target="t4iBaf86HQNA4ZAkcv5S-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
